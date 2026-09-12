@@ -1,0 +1,8 @@
+{
+  "name": "Ancient Secrets of Chinese Medicine",
+  "description": "Digital book and interactive reader featuring 100 traditional recipes and teachings from Master Lin for everyday wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
